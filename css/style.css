@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+
+#distritos{
+    margin:20px;
+    background-color: blueviolet;
+}
+
+
+
+.farmacias{
+    background-color: lime;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.barrios{
+    background-color:lightsalmon;
+    margin-left: 30px;
+    margin-right: 20px;
+}
